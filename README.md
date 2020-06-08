@@ -7,8 +7,7 @@ Basic project to demonstrate crash with nigara particle systems using pools.
 Reproduction steps for crash. 
 1. Package a shipping client build for windows-64 bit
 2. Start a dedicated server (using the runserver.cmd)
-3. Run two or more clients against the server
-4. Press connect
+3. Run two or more clients against the server (press the connect in the UI)
 5. press spacebar to start spawning particles
 6. Wait for crash (should happen within a minute) 
 
